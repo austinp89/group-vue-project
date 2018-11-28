@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import Cart from '@/components/Cart'
 import Home from '@/components/Home'
 import Shop from '@/components/Shop'
-import Authentiction from '@/components/Authentiction'
+import Authentication from '@/components/Authentication'
 
 Vue.use(Router)
 
@@ -26,8 +26,8 @@ export default new Router({
     },
     {
       path: '/login',
-      name: 'Authentiction',
-      component: Authentiction
+      name: 'Authentication',
+      component: Authentication
     }
   ]
 })

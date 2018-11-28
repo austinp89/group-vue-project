@@ -1,7 +1,7 @@
 <template>
-    <dive id="login">
-        <h3> this is the login/authentication </h3>
-    </dive>
+    <div id="login">
+        <h3>this is the login page</h3>
+    </div>
 </template>
 
 
@@ -14,3 +14,4 @@ export default {
     }
 }
 </script>
+

@@ -1,7 +1,11 @@
 <template>
-    <dive id="home">
+    <div id="home">
         <h3> home page</h3>
-    </dive>
+        <button>log in</button>
+        <button>shop</button>
+        <button>cart</button>
+      
+    </div>
 </template>
 
 
