@@ -1,6 +1,6 @@
 <template>
     <div id="home">
-        <h3> home page</h3>
+        <h3> homepage</h3>
         <button>log in</button>
         <button>shop</button>
         <button>cart</button>
